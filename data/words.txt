@@ -1,0 +1,17 @@
+apple
+apply
+application
+applicant
+banana
+band
+bandana
+cat
+catalog
+dog
+door
+drink
+drive
+python
+photo
+phone
+physical
