@@ -27,4 +27,17 @@ Users can:
 python -m src.application --data data/words.txt
 
 
+## Screenshots
+
+### Startup
+![Startup](screenshots/startup.png)
+
+### Autocomplete
+![Autocomplete](screenshots/autocomplete.png)
+
+### Add/Delete/Stats
+![Operations](screenshots/operations.png)
+
+
+
 
